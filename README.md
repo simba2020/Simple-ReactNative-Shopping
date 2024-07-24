@@ -1,4 +1,4 @@
-# React-Native-Ecommerce
+# Simple-React-Native-Ecommerce
 
 A boilerplate for a ecommerce mobile app using React Native and Redux.
 IOs and Android
@@ -24,18 +24,6 @@ IOs and Android
 - Wish List (With Redux)
 - Google Ads (Replace your app id in : AndroidManifest.xml and info.plist)
 - Search (Coming soon)
-
-## YouTube
-
-- [Subscribe](https://www.youtube.com/channel/UCtyZ9z0ulUQsyP-wLrNyJ4A) `Subscribe for more`
-
-## Web
-
-- [Amusoftech](https://amusoftech.xyz/) `Visit us`
-
-## Buy me a coffee
-
-<a href="https://www.buymeacoffee.com/amusoftech" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ## Screens Recording
 
